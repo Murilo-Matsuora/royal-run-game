@@ -42,7 +42,7 @@ To open and modify this project, you will need:
 
 3. **Initial Compilation**
    * Allow Unity to import assets and generate local library files (this may take a few minutes on the first launch).
-   * Open the primary scene from the Project window: `Assets/Scenes/Main.unity` (or your initial scene name).
+   * Open the primary scene from the Project window: `Assets/Scenes/MainLevel.unity`.
 
 ---
 
@@ -50,7 +50,7 @@ To open and modify this project, you will need:
 
 ### Within the Unity Editor
 1. Open the project in the Editor.
-2. Open the main menu or starting scene: `Assets/Scenes/MainMenu.unity`.
+2. Open the or scene: `Assets/Scenes/MainLevel.unity`.
 3. Click the **Play** button (▶️) at the top center of the editor layout.
 
 ### Building a Standalone Executable
